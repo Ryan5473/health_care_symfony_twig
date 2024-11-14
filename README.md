@@ -1,6 +1,5 @@
 # Sa7ty
 
-
 ## Table of Contents
 
 - [Introduction](#introduction)
@@ -15,7 +14,7 @@
 Provide a more detailed introduction to your project. Explain what it does, its purpose, and any other relevant information.
 
 ## Class Diagram
-![image](https://github.com/Mk-1000/sa7ty/assets/86926622/d747937c-d3ba-47b4-b2f3-28a972ff9853)
+![Class Diagram](https://github.com/Mk-1000/sa7ty/assets/86926622/d747937c-d3ba-47b4-b2f3-28a972ff9853)
 
 ## Features
 
@@ -35,9 +34,13 @@ List the key features of your project.
 - `symfony console doctrine:migrations:migrate`
 - `symfony console doctrine:fixtures:load`
 - `symfony server:start`
-# health_care_symfony_twig
-!(sc5.png)
-!(sc1.png)
-!(sc2.png)
-!(sc3.png)
-!(sc4.png)
+
+# Health Care Symfony Twig
+
+## Screenshots
+
+![Screenshot 1](sc5.png)
+![Screenshot 2](sc1.png)
+![Screenshot 3](sc2.png)
+![Screenshot 4](sc3.png)
+![Screenshot 5](sc4.png)
