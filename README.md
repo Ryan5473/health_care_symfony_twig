@@ -36,3 +36,8 @@ List the key features of your project.
 - `symfony console doctrine:fixtures:load`
 - `symfony server:start`
 # health_care_symfony_twig
+!(sc5.png)
+!(sc1.png)
+!(sc2.png)
+!(sc3.png)
+!(sc4.png)
