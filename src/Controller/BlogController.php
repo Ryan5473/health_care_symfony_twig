@@ -12,10 +12,20 @@ use App\Form\BlogType;
 use App\Repository\BlogRepository;
 use App\Entity\Vote;
 use App\Repository\VoteRepository;
+use Knp\Component\Pager\PaginatorInterface;
 
 #[Route('/blog')]
 class BlogController extends AbstractController
 {
+
+
+
+
+
+
+
+
+    
     private $entityManager;
 
 
@@ -46,6 +56,7 @@ class BlogController extends AbstractController
             'keyword' => $keyword,
         ]);
     }
+
 
 
 
@@ -204,4 +215,6 @@ class BlogController extends AbstractController
         return $this->redirectToRoute('app_blog_index', ['id' => $blog->getId()]);
     }
 }
+
+
 }
